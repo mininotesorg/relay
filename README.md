@@ -6,6 +6,10 @@ cannot read your notes.
 
 Mininotes comes with public relays. With your own, your notes go through a machine you control.
 
+> **The same server can keep your backups too.** [mininotesorg/server](https://github.com/mininotesorg/server) installs the
+> relay and a backup server with one command, or either alone. Its relay is this one: a relay installed from here is updated
+> there, and keeps its identity.
+
 ## What you need
 
 - A Linux server with a public IPv4 address. A small cloud server is enough (about 5 dollars a month): Ubuntu or Debian,
